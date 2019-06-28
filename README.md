@@ -1,2 +1,2 @@
-# finding_lane_lines
-The first project of Self-Driving Car Engineer Nanodegree
+## Finding Lane Lines Project
+This is the first project of Self-Driving Car Engineer Nanodegree.
